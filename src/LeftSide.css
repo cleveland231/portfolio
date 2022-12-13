@@ -1,0 +1,13 @@
+.LeftSideTabs {
+    display: flex;
+    flex-direction: column;
+    padding-top: 3rem;
+}
+
+.Navigation {
+    display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+    padding: 3rem;
+}
